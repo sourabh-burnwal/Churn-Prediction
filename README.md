@@ -1,5 +1,5 @@
 # Churn-Prediction
-Churn Prediction using XGBoost and Deep Learning and comapring their results.
+Churn Prediction using XGBoost and Deep Learning and comparing their results.
 The repo structure is like the following:
 ```
 |
